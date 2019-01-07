@@ -3,6 +3,33 @@
 List of react-leaflet plugins.
 
 
+<table>
+	<tr>
+		<td>#</td>
+		<td>Plugin</td>
+		<td>Description</td>
+		<td>Version</td>
+		<td>react-leaflet version</td>
+	</tr>
+	<tr>
+		<td rowspan="2">1</td>
+		<td rowspan="2">[react-leaflet-d3](https://github.com/mhasbie/react-leaflet-d3)</td>
+		<td>Leaflet D3 Provides a collection of D3.js based visualization plugins for Leaflet</td>
+		<td>[![version](https://img.shields.io/npm/v/react-leaflet-d3.svg?style=plastic)](http://npm.im/react-leaflet-d3)</td>
+		<td>[![version](https://img.shields.io/npm/v/react-leaflet-d3.svg?style=plastic)](http://npm.im/react-leaflet-d3)	| [![react-leaflet compatibility]</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			[![travis build](https://img.shields.io/travis/mhasbie/react-leaflet-d3.svg?style=plastic)](https://travis-ci.org/mhasbie/react-leaflet-d3)
+			[![dependencies](https://img.shields.io/david/mhasbie/react-leaflet-d3.svg?style=plastic)](https://david-dm.org/mhasbie/react-leaflet-d3)
+			[![peer dependencies](https://img.shields.io/david/peer/mhasbie/react-leaflet-d3.svg?style=plastic)](https://david-dm.org/mhasbie/react-leaflet-d3?type=peer)
+			[![issues](https://img.shields.io/github/issues/mhasbie/react-leaflet-d3.svg?style=plastic)](https://github.com/mhasbie/react-leaflet-d3/issues)	
+			[![downloads](https://img.shields.io/npm/dt/react-leaflet-d3.svg?style=plastic)](http://npm-stat.com/charts.html?package=react-leaflet-d3&from=2018-01-01)
+			[![MIT License](https://img.shields.io/npm/l/react-leaflet-d3.svg?style=plastic)](http://opensource.org/licenses/MIT)
+		</td>
+	</tr>
+</table>
+
 | #		| Plugin	| Description	| Version	| react-leaflet version	| Status	| 		|
 | ---:	| ---		|  ---			| ---		| ---					| ---		| ---	|
 | 1		| [react-leaflet-d3](https://github.com/mhasbie/react-leaflet-d3)	| Leaflet D3 Provides a collection of D3.js based visualization plugins for Leaflet | [![version](https://img.shields.io/npm/v/react-leaflet-d3.svg?style=plastic)](http://npm.im/react-leaflet-d3)	| [![react-leaflet compatibility](https://img.shields.io/npm/dependency-version/react-leaflet-d3/peer/react-leaflet.svg?style=plastic)](https://github.com/mhasbie/react-leaflet-d3)	| [![travis build](https://img.shields.io/travis/mhasbie/react-leaflet-d3.svg?style=plastic)](https://travis-ci.org/mhasbie/react-leaflet-d3) [![dependencies](https://img.shields.io/david/mhasbie/react-leaflet-d3.svg?style=plastic)](https://david-dm.org/mhasbie/react-leaflet-d3) [![peer dependencies](https://img.shields.io/david/peer/mhasbie/react-leaflet-d3.svg?style=plastic)](https://david-dm.org/mhasbie/react-leaflet-d3?type=peer) [![issues](https://img.shields.io/github/issues/mhasbie/react-leaflet-d3.svg?style=plastic)](https://github.com/mhasbie/react-leaflet-d3/issues)	| [![downloads](https://img.shields.io/npm/dt/react-leaflet-d3.svg?style=plastic)](http://npm-stat.com/charts.html?package=react-leaflet-d3&from=2018-01-01) [![MIT License](https://img.shields.io/npm/l/react-leaflet-d3.svg?style=plastic)](http://opensource.org/licenses/MIT) 	|
