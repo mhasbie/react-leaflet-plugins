@@ -4,7 +4,7 @@ List of react-leaflet plugins.
 
 
 | Plugin	| Description	| Version	| React Leaflet Compatibility	|
-| ----		|  ----------	| ---		| ---							|
+| ------	|  ------		| ----		| ----							|
 | [react-leaflet-d3](https://github.com/mhasbie/react-leaflet-d3)	| Leaflet D3 Provides a collection of D3.js based visualization plugins for Leaflet | [![version](https://img.shields.io/npm/v/react-leaflet-d3.svg?style=plastic)](http://npm.im/react-leaflet-d3)	| [![react-leaflet compatibility](https://img.shields.io/npm/dependency-version/react-leaflet-d3/peer/react-leaflet.svg?style=plastic)](https://github.com/mhasbie/react-leaflet-d3)	|
 | [react-leaflet-deflate](https://github.com/mhasbie/react-leaflet-deflate)	| Substitues polygons and lines with markers when screen size falls below a defined threshold | [![version](https://img.shields.io/npm/v/react-leaflet-deflate.svg?style=plastic)](http://npm.im/react-leaflet-deflate)	| [![react-leaflet compatibility](https://img.shields.io/npm/dependency-version/react-leaflet-deflate/peer/react-leaflet.svg?style=plastic)](https://github.com/mhasbie/react-leaflet-deflate)	|
 | [react-leaflet-dialog](https://github.com/mhasbie/react-leaflet-dialog)	| A dialog modal window that is resizable and positionable on the map | [![version](https://img.shields.io/npm/v/react-leaflet-dialog.svg?style=plastic)](http://npm.im/react-leaflet-dialog)	| [![react-leaflet compatibility](https://img.shields.io/npm/dependency-version/react-leaflet-dialog/peer/react-leaflet.svg?style=plastic)](https://github.com/mhasbie/react-leaflet-dialog)	|
